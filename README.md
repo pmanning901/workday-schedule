@@ -18,12 +18,12 @@ Webpage will be color coded depending on whether the represented hour is in the 
 https://user-images.githubusercontent.com/91038339/141361524-f8881815-6c22-4696-a281-b73aa8d9a354.mov
 
 ## Code
-*HTML
-*CSS
-*Javascript
+* HTML
+* CSS
+* Javascript
 
 ## Links
-[Daily-Planner] (https://pmanning901.github.io/workday-schedule/)
+[workday-schedule](https://pmanning901.github.io/workday-schedule/)
 
 ## Contacts
 Created by Patrick Manning
