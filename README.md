@@ -3,11 +3,11 @@
 This repo is for Vanderbilt coding bootcamp
 
 ## Table of contents
-* [Instructions] (#Instructions)
-* [Screenshots] (#screenshots) 
-* [Code] (#Code)
-* [Links] (#links)
-* [Contacts] (#contacts)
+* [Instructions](#Instructions)
+* [Screenshots](#screenshots) 
+* [Code](#Code)
+* [Links](#links-URL)
+* [Contacts](#contacts)
 
 ## Instructions
 Create a webpage that saves notes depending on the time block entered and saved in.
@@ -23,6 +23,7 @@ https://user-images.githubusercontent.com/91038339/141361524-f8881815-6c22-4696-
 *Javascript
 
 ## Links
+[Daily-Planner] (https://pmanning901.github.io/workday-schedule/)
 
 ## Contacts
 Created by Patrick Manning
