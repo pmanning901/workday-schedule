@@ -23,8 +23,8 @@ https://user-images.githubusercontent.com/91038339/141361524-f8881815-6c22-4696-
 * Javascript (js scripts, jquery, moment.js, bootstrap js)
 
 ## Links
-[workday-schedule](https://pmanning901.github.io/workday-schedule/)
-[github-account] (https://github.com/pmanning901)
+*  [workday-schedule](https://pmanning901.github.io/workday-schedule/)
+* [github-account] (https://github.com/pmanning901)
 
 ## Contacts
 Created by Patrick Manning
