@@ -67,9 +67,10 @@ textarea {
   border: 1px solid #88898C;
   border-top-right-radius: 15px;
   border-bottom-right-radius: 15px;
-  background-color: #152C40;
+  background-color: #1a3a55;
   color: white;
 }
+
 
 .svBtn i:hover {
   font-size: 25px;
